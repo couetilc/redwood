@@ -7,7 +7,7 @@ config.py
 .DS_Store
 
 #Virtual Environment
-env/
+app/env/
 
 #Python optimizations
 __pycache__/
