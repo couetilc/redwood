@@ -1,0 +1,18 @@
+config.py
+
+# Vim temporary files
+*.sw?
+
+#Mac OS directory files
+.DS_Store
+
+#Virtual Environment
+env/
+
+#Python optimizations
+__pycache__/
+*.py[cod]
+
+#SASS optimizations
+.sass-cache/
+*.css.map
